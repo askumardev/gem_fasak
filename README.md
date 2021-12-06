@@ -17,5 +17,6 @@
 * cd ..
 * gem install ./name-0.0.0.gem
 * `curl -u ***** https://rubygems.org/api/v1/api_key.yaml > ~/.gem/credentials; chmod 0600 ~/.gem/credentials`
+* in the above cmd **** id rubygems org username
 * `gem push name-0.0.0.gem`
 * `gem list -r name`
